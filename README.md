@@ -41,7 +41,7 @@ Sou professor de TI com foco em **formação prática**, preparando alunos para 
 
 📫 **Contato**
 - GitHub: https://github.com/brunoamoraes
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/bruno-a-moraes-73a129151/
 
 ---
 ⭐ Fique à vontade para explorar, clonar e aprender!
