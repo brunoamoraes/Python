@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Bruno Augusto de Moraes
+# 👋 Eu sou o Bruno Moraes
 
 🎓 **Professor / Instrutor de Formação Profissional – SENAI**  
 💻 **Área:** Tecnologia da Informação  
